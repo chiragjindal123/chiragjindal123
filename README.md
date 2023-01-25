@@ -1,11 +1,8 @@
-[![MasterHead](https://camo.githubusercontent.com/2dcf1a73f7dcb84e53882d821de7b61d4362388b92e1f9d974563c489abeb342/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3730302f302a4647443642557a7a5a7331564a4c75592e676966)]
 <h1 align="center">Hi 👋, I'm Chirag Jindal</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragjindal123&label=Profile%20views&color=0e75b6&style=flat" alt="chiragjindal123" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiragjindal123" alt="chiragjindal123" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -15,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Front-end Development**
 
-- 💬 Ask me about **MEARN and frameWorks**
+- 💬 Ask me about **React,vue and many more framworks**
 
 - 📫 How to reach me **golujindal76@gmail.com**
 

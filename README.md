@@ -22,8 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/chirag_jindal_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="chirag_jindal_123" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chirag jindal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chirag jindal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chirag-jindal-9aa83a1a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chirag-jindal-9aa83a1a4" height="30" width="40" /></a>
 <a href="https://fb.com/chirag jindal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chirag jindal" height="30" width="40" /></a>
 <a href="https://instagram.com/chirag_jindal_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chirag_jindal_123" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/teammajinx4597" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="teammajinx4597" height="30" width="40" /></a>

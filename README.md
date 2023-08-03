@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **golujindal76@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FL0mTHJ6qZt88eRh9MmXgYMkzcKRTzJ6/view?usp=sharing](https://drive.google.com/file/d/1FL0mTHJ6qZt88eRh9MmXgYMkzcKRTzJ6/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xS1nYbcVm631yPPBNI49OWTrpVaxhL-k/view?usp=sharing](https://drive.google.com/file/d/1xS1nYbcVm631yPPBNI49OWTrpVaxhL-k/view?usp=sharing)
 
 - ⚡ Fun fact **I Think I am Funny**
 

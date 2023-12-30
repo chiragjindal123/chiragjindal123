@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/775ed67e1d46c9534c3cb9a4694edf0603b1436a7e3e15891d3c327733fc26b6/68747470733a2f2f7777772e61756469656e6365706c616e65742e636f6d2f726f6f742f74656d706c6174652f312f2f696d616765732f7765622d646576656c6f706d656e742e676966)
+![MasterHead](https://camo.githubusercontent.com/67fc6fe69796a1433e92819310c117759475b5cba29dccedecd68a54e6f60fe6/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f313430305f6f70745f312f3831626234623136353638343031392e363430623630333864313333652e676966)
 <h1 align="center">Hi 👋, I'm Chirag Jindal</h1>
 <h3 align="center">I'm a passionate full-stack developer from India with the ability to write efficient code using MERN stack with a flair of creating elegant solutions in the least amount of time. I'm always curious to learn new things and I always try to be the change, I want in others. I love to completely dedicate myself to develop innovative products.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">

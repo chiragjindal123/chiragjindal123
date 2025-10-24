@@ -1,0 +1,28 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # runs daily
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Generate Stats with Token
+        run: |
+          STATS_URL="https://github-readme-stats.vercel.app/api?username=chiragjindal123&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&token=$GH_TOKEN"
+          sed -i "s|https://github-readme-stats.vercel.app/api?username=chiragjindal123.*|$STATS_URL|g" README.md
+
+      - name: Commit Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update GitHub Stats"
+          git push
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}

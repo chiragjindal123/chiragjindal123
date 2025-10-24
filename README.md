@@ -44,6 +44,10 @@
 </p>
 
 <p align="center">
+  <img width="800" height="220" src="https://github-readme-stats.vercel.app/api?username=chiragjindal123&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&token=${{ secrets.GH_TOKEN }}" alt="chiragjindal123" />
+</p>
+
+<p align="center">
   <img width="600" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=chiragjindal123&theme=dark&hide_border=true" alt="chiragjindal123" />
 </p>
 

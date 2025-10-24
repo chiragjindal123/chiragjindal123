@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **JavaScript**
+- 🔭 I’m currently working on **Gen-Ai**
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Agentic-Ai**
 
-- 👯 I’m looking to collaborate on **Front-end Development**
+- 👯 I’m looking to collaborate on **AI Issues**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Computer Science**
 
 - 📫 How to reach me **golujindal76@gmail.com**
 
-- 📄 Know about my experiences . (https://drive.google.com/file/d/1zJ20aZRtjnm3Fy2inyOx10wRyiXdoiT9/view?usp=sharing)
+- 📄 Know about my experiences . ([https://drive.google.com/file/d/1zJ20aZRtjnm3Fy2inyOx10wRyiXdoiT9/view?usp=sharing](https://drive.google.com/file/d/1yCVKpUgi35u4cA0PUg0d6p0KFacgfIjN/view?usp=sharing))
 - ⚡ Fun fact **I Think I am Funny**
 
 <h3 align="left">Connect with me:</h3>

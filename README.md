@@ -50,12 +50,6 @@
   <img width="600" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=chiragjindal123&theme=dark&hide_border=true" alt="chiragjindal123" />
 </p>
 
-<!--FULL_STATS_START-->
-### 🧮 Chirag’s Full GitHub Stats
-- **Total Commits (All Repos):** null
-- **Total Pull Requests:** null
-- **Total Issues:** null
-<!--FULL_STATS_END-->
 
 
 

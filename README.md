@@ -50,11 +50,8 @@
   <img width="600" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=chiragjindal123&theme=dark&hide_border=true" alt="chiragjindal123" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=chiragjindal123&theme=onedark&no-frame=false&no-bg=false&margin-w=10" alt="GitHub Trophies" />
-  </a>
-</p>
+<!--FULL_STATS_START-->
+<!--FULL_STATS_END-->
 
 
 

@@ -51,8 +51,7 @@
 </p>
 
 <p align="center">
-  <!-- Trophy Stats -->
-  <img width="100%" height="220" src="https://github-profile-trophy.vercel.app/?username=chiragjindal123&theme=radical&no-frame=false&no-bg=true&margin-w=3" alt="chiragjindal123" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chiragjindal123&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 

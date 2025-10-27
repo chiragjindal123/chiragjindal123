@@ -42,7 +42,7 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img width="800" height="220" src="https://github-readme-stats.vercel.app/api?username=chiragjindal123&show_icons=true&locale=en&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="chiragjindal123" />
+  <img width="800" height="220" src="https://github-readme-stats.vercel.app/api?username=chiragjindal123https://github-readme-stats.vercel.app/api?username=chiragjindal123&show_icons=true&locale=en&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="chiragjindal123" />show_icons=truehttps://github-readme-stats.vercel.app/api?username=chiragjindal123&show_icons=true&locale=en&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="chiragjindal123" />theme=darkhttps://github-readme-stats.vercel.app/api?username=chiragjindal123&show_icons=true&locale=en&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="chiragjindal123" />hide_border=truehttps://github-readme-stats.vercel.app/api?username=chiragjindal123&show_icons=true&locale=en&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="chiragjindal123" />count_private=truehttps://github-readme-stats.vercel.app/api?username=chiragjindal123&show_icons=true&locale=en&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="chiragjindal123" />include_all_commits=truehttps://github-readme-stats.vercel.app/api?username=chiragjindal123&show_icons=true&locale=en&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="chiragjindal123" />token=
 </p>
 
 <p align="center">

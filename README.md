@@ -47,7 +47,7 @@
 
 <p align="center">
   <!-- Streak Stats -->
-  <img width="600" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=chiragjindal123&theme=dark&hide_border=true" alt="chiragjindal123" />
+  <!-- <img width="600" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=chiragjindal123&theme=dark&hide_border=true" alt="chiragjindal123" /> -->
 </p>
 
 

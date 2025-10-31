@@ -41,7 +41,7 @@
 
 <p align="center">
 
-<!--STATS_PLACEHOLDER-->
+![](https://github-readme-stats.vercel.app/api?username=chiragjindal123<!--STATS_PLACEHOLDER-->show_icons=true<!--STATS_PLACEHOLDER-->theme=dark<!--STATS_PLACEHOLDER-->hide_border=true<!--STATS_PLACEHOLDER-->count_private=true<!--STATS_PLACEHOLDER-->include_all_commits=true)
 
 </p>
 

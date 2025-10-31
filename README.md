@@ -41,10 +41,11 @@
 </p>
 
 <p align="center">
-  <!-- GitHub Stats -->
-  ![](https://github-readme-stats.vercel.app/api?username=chiragjindal123<!--STATS_PLACEHOLDER-->show_icons=true<!--STATS_PLACEHOLDER-->theme=dark<!--STATS_PLACEHOLDER-->hide_border=true<!--STATS_PLACEHOLDER-->count_private=true<!--STATS_PLACEHOLDER-->include_all_commits=true)
-  <img width="800" height="220" src="https://github-readme-stats.vercel.app/api?username=chiragjindal123&show_icons=true&locale=en&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="chiragjindal123" />
+
+<!--STATS_PLACEHOLDER-->
+
 </p>
+
 
 <p align="center">
   <!-- Streak Stats -->

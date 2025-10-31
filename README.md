@@ -39,11 +39,11 @@
   <img width="400" height="220" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiragjindal123&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&count_private=true" alt="chiragjindal123" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=chiragjindal123<!--STATS_PLACEHOLDER-->show_icons=true<!--STATS_PLACEHOLDER-->theme=dark<!--STATS_PLACEHOLDER-->hide_border=true<!--STATS_PLACEHOLDER-->count_private=true<!--STATS_PLACEHOLDER-->include_all_commits=true)
 
-</p>
+</p> -->
 
 
 
